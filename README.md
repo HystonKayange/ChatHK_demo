@@ -1,6 +1,6 @@
-# ChatHK – AI-Powered Personal Assistant 
+# ChatHK – AI-Powered Personal Assistant
 
-A demonstration of core features for a future Business Intelligence SaaS platform.
+A demonstration of core features for a future Business Intelligence SaaS platform.  
 
 [![Live Demo](https://img.shields.io/badge/demo-online-brightgreen)](https://chathk1.vercel.app/)
 [![Status](https://img.shields.io/badge/status-demo-lightgrey)]
@@ -9,24 +9,25 @@ A demonstration of core features for a future Business Intelligence SaaS platfor
 
 ## About This Project
 
-This dashboard serves as a **demonstration and testbed** for core features I’m building for a Business Intelligence SaaS platform. Here, I prototype, validate, and showcase an AI-powered knowledge management tool and custom profile-based assistants.
+A Personal AI assistant where you can upload your profile, CV, and other files, then chat with the bot and get intelligent answers based on your data and saved articles.
+
+It serves as a testbed for core features I'm developing for a Business Intelligence SaaS platform.
 
 ---
 
 ## Features
 
-- **Profile-based AI Assistant:** Ask questions based on your profile or CV.
-- **Data Drive:** Securely upload and manage files to power your assistant.
-- **Knowledge Archives:** Collect and manage online articles for enhanced bot intelligence.
-- **Dark/Light Mode:** Instantly switch between light and dark themes.
-- **Admin Dashboard:** Upload files, manage knowledge, and test the assistant.
-- **Secure Authentication:** Sign in with Google or Email (admin-only).
-- **Settings Panel:** Customize your profile, assistant behavior, and storage preferences.
-
+- **Conversational AI Assistant:** Chat with an AI bot that answers questions based on your uploaded files, profile, and knowledge archives.
+- **Data Drive:** Securely upload and manage files that power your assistant.
+- **Knowledge Archives:** Collect and organize online articles for richer, more informed answers.
+- **Dark/Light Mode:** Instantly switch between light and dark themes for your comfort.
+- **Admin Dashboard:** Manage files, knowledge, and interact with the assistant as an admin.
+- **Secure Authentication:** Sign in with Google or Email (admin-only access).
+- **Settings Panel:** Customize your profile, assistant preferences, and storage options.
 
 ---
 
-##  Dashboard Overview
+## Dashboard & Assistant Overview
 
 ![Landing Page](/Images/landing_page.png)
 ![Admin Dashboard](/Images/admin-dashboard.png)
@@ -41,11 +42,11 @@ This dashboard serves as a **demonstration and testbed** for core features I’m
 
 ##  Live Demo
 
-Try it out here: [https://chathk1.vercel.app/](https://chathk1.vercel.app/)
+**Try it out here:** [https://chathk1.vercel.app/](https://chathk1.vercel.app/)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Next.js 14**
 - **Tailwind CSS**
@@ -55,14 +56,12 @@ Try it out here: [https://chathk1.vercel.app/](https://chathk1.vercel.app/)
 
 ---
 
-
 ## Feedback & Contact
 
-Feedback and contributions are welcome!!
+Feedback and collaboration opportunities are welcome!  
 Contact **Hyston Kayange**  
 [LinkedIn](https://www.linkedin.com/in/hyston-kayange-2682641b5)
 
 ---
 
 © 2025 Hyston Kayange. All rights reserved.
-
