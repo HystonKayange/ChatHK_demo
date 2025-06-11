@@ -11,8 +11,6 @@ A demonstration of core features for a future Business Intelligence SaaS platfor
 
 This dashboard serves as a **demonstration and testbed** for core features I’m building for a Business Intelligence SaaS platform. Here, I prototype, validate, and showcase an AI-powered knowledge management tool and custom profile-based assistants.
 
-Feedback and contributions are welcome!!
-
 ---
 
 ## Features
@@ -58,9 +56,9 @@ Try it out here: [https://chathk1.vercel.app/](https://chathk1.vercel.app/)
 ---
 
 
-## 💬 Feedback & Contact
+## Feedback & Contact
 
-Questions, suggestions, or interested in collaboration?  
+Feedback and contributions are welcome!!
 Contact **Hyston Kayange**  
 [LinkedIn](https://www.linkedin.com/in/hyston-kayange-2682641b5)
 
