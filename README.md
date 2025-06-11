@@ -1,6 +1,6 @@
-# ChatHK – AI-Powered Assistant Dashboard
+# ChatHK – AI-Powered Personal Assistant 
 
-A live demonstration of core features for a future Market Intelligence SaaS platform.
+A demonstration of core features for a future Business Intelligence SaaS platform.
 
 [![Live Demo](https://img.shields.io/badge/demo-online-brightgreen)](https://chathk1.vercel.app/)
 [![Status](https://img.shields.io/badge/status-demo-lightgrey)]
@@ -9,38 +9,39 @@ A live demonstration of core features for a future Market Intelligence SaaS plat
 
 ## About This Project
 
-This dashboard serves as a **demonstration and testbed** for core features I’m building for a Business Intelligence SaaS platform. Here, I prototype, validate, and showcase AI-powered knowledge management tools and custom profile-based assistants.
+This dashboard serves as a **demonstration and testbed** for core features I’m building for a Business Intelligence SaaS platform. Here, I prototype, validate, and showcase an AI-powered knowledge management tool and custom profile-based assistants.
 
 Feedback and contributions are welcome!!
 
 ---
 
-##  Features
+## Features
 
-- **Profile-based AI Assistant:** Ask questions about your profile/CV.
-- **Data Drive:** Upload and manage files securely to feed your bot.
-- **Knowledge Archives:** Save and manage online articles for the bot.
-- **Dark/Light Mode:** Easy theme switching.
-- **Admin Dashboard:** Upload, manage knowledge, and test the bot.
-- **Secure Auth:** Google & Email sign-in for admins.
-- **Settings Panel:** Customize profile, assistant, and storage.
+- **Profile-based AI Assistant:** Ask questions based on your profile or CV.
+- **Data Drive:** Securely upload and manage files to power your assistant.
+- **Knowledge Archives:** Collect and manage online articles for enhanced bot intelligence.
+- **Dark/Light Mode:** Instantly switch between light and dark themes.
+- **Admin Dashboard:** Upload files, manage knowledge, and test the assistant.
+- **Secure Authentication:** Sign in with Google or Email (admin-only).
+- **Settings Panel:** Customize your profile, assistant behavior, and storage preferences.
 
----
-
-## 🖼️ Screenshots
-
-![Landing Page](/images/landing_page.png)
-![Admin Dashboard](/images/admin-dashboard.png)
-![Assistant Light](/images/assistant-1.png)
-![Assistant Dark](/images/assistant-2.png)
-![Data Drive](/images/Data-drive.png)
-![Knowledge Archives](/images/knowledge-archive.png)
-![Login Page](/images/login.png)
-![Settings](/images/settings.png)
 
 ---
 
-## 🌐 Live Demo
+##  Dashboard Overview
+
+![Landing Page](/Images/landing_page.png)
+![Admin Dashboard](/Images/admin-dashboard.png)
+![Assistant Light](/Images/assistant-1.png)
+![Assistant Dark](/Images/assistant-2.png)
+![Data Drive](/Images/Data-drive.png)
+![Knowledge Archives](/Images/knowledge-archive.png)
+![Login Page](/Images/login.png)
+![Settings](/Images/settings.png)
+
+---
+
+##  Live Demo
 
 Try it out here: [https://chathk1.vercel.app/](https://chathk1.vercel.app/)
 
@@ -61,7 +62,7 @@ Try it out here: [https://chathk1.vercel.app/](https://chathk1.vercel.app/)
 
 Questions, suggestions, or interested in collaboration?  
 Contact **Hyston Kayange**  
-[LinkedIn](https://www.linkedin.com/in/hyston-kayange-2682641b5) | [Email](hylukayange@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/hyston-kayange-2682641b5)
 
 ---
 
